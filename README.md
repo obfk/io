@@ -17,3 +17,9 @@ cf. [en.wikibooks.org/intro/getting-started](https://en.wikibooks.org/wiki/Io_Pr
 >Metaprogramming is the writing of computer programs with the ability to treat programs 
 as their data. It means that a program could be designed to read, generate, analyse or 
 transform other programs, and even modify itself while running.
+
+### Singleton
+
+>In software engineering, the singleton pattern is a design pattern that restricts the 
+instantiation of a class to one object. This is useful when exactly one object is needed 
+to coordinate actions across the system.
