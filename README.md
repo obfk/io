@@ -10,3 +10,10 @@ Today, most of Io’s community is focused on Io as an embeddable language with 
 
 cf. [en.wikibooks.org/intro/getting-started](https://en.wikibooks.org/wiki/Io_Programming/Beginner%27s_Guide/Getting_Started)
 
+## References
+
+### Metaprogramming
+
+>Metaprogramming is the writing of computer programs with the ability to treat programs 
+as their data. It means that a program could be designed to read, generate, analyse or 
+transform other programs, and even modify itself while running.
